@@ -1,0 +1,8 @@
+kagglehub
+pydub
+numpy
+wave
+gtda
+ripser
+teaspoon
+scikit-learn
